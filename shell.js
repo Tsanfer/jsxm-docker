@@ -100,7 +100,7 @@ window.onload = function() {
 
   var uri = location.hash.substr(1);
   if (uri === "") {
-    uri = "dragon atlas (R2R - Image-Line kg v1.0.1).xm";
+    uri = "The Drunk RazorGirl (ECLiPSE - BadCopy Pro 3.74.0403kg).xm";
   }
   if (!uri.startsWith("http")) {
     uri = baseuri + uri;
